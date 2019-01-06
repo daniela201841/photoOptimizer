@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54785590-6303-4b84-b44e-5c2f52f49306" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2126928359">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.71" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="4" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="273" />
+          <entry key="json" value="2" />
+          <entry key="properties" value="2" />
+          <entry key="txt" value="9" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="271" />
+          <entry key="JSON" value="2" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="27" />
+          <entry key="java" value="14370" />
+          <entry key="json" value="22" />
+          <entry key="properties" value="20" />
+          <entry key="xml" value="225" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="14271" />
+          <entry key="JSON" value="22" />
+          <entry key="PLAIN_TEXT" value="126" />
+          <entry key="Properties" value="20" />
+          <entry key="XML" value="225" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1160315669">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="5" />
+          <entry key="java" value="129" />
+          <entry key="md" value="4" />
+          <entry key="sh" value="2" />
+          <entry key="xml" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="5" />
+          <entry key="JAVA" value="129" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="XML" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="77" />
+          <entry key="java" value="652" />
+          <entry key="md" value="537" />
+          <entry key="sh" value="87" />
+          <entry key="xml" value="114" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="652" />
+          <entry key="PLAIN_TEXT" value="701" />
+          <entry key="XML" value="114" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/PhotoOptimizer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/SubmitImageService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="42" column="66" lean-forward="true" selection-start-line="42" selection-start-column="66" selection-end-line="42" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/ServiceRegistry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/RestService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/config/Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/ValueService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>photoAPI</find>
+      <find>photoAPIstart</find>
+      <find>photo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>photoOptimizer</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/Base.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/VehicleImage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/CompleteImage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/ImageValues.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/OptimizeVehicleImageSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/ReaderInputFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/ProcessPhotoApi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/rest/RestService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/Service.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/util/StatusType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/util/Config.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/config/StatusType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/Dealer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/Image.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/RestClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/Param.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/rest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/rest/rest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/rest/Header.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/rest/Headers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/rest/Param.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/rest/RestClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/Header.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/Values.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/optimize.json" />
+        <option value="$PROJECT_DIR$/src/test/java/ca/lotlinx/service/SimpleRestClientTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/OptimizeImageSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/StatusType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/ServiceRegistry.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/SimpleRestClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/StatusError.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/Status.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/GenericReturn.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/ValuesStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/util/Param.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/util/Header.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/ServiceType.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ca/lotlinx/service/Daniela_Alves_OptimizeTest.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/ca/lotlinx/service/Daniela_Alves_SubmitImageServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/App.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ca/lotlinx/service/SubmitImageServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/RestService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/config/Config.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/SubmitImageService.java" />
+        <option value="$PROJECT_DIR$/run.sh" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/ValueService.java" />
+        <option value="$PROJECT_DIR$/logback.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ca/lotlinx/PhotoOptimizer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/share/maven" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="photoOptimizer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="photoOptimizer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="photoOptimizer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="37" />
+    <option name="y" value="27" />
+    <option name="width" value="1178" />
+    <option name="height" value="641" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>FinalizationJava</id>
+          </State>
+          <State>
+            <id>GeneralScala</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Scala</id>
+          </State>
+          <State>
+            <id>SecurityJava</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Syntactic ClarificationScala</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="photoOptimizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoOptimizer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="photoOptimizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoOptimizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="photoOptimizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoOptimizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="photoOptimizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoOptimizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="photoOptimizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoOptimizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lotlinx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="photoOptimizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoOptimizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lotlinx" type="462c0819:PsiDirectoryNode" />
+              <item name="PhotoOptimizer" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="photoOptimizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoOptimizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="photoOptimizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoOptimizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="Config" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="photoOptimizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoOptimizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="photoOptimizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoOptimizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="RestService" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="photoOptimizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoOptimizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="Service" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="photoOptimizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoOptimizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="ServiceRegistry" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="photoOptimizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoOptimizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="ServiceType" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="photoOptimizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoOptimizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="SubmitImageService" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="photoOptimizer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="photoOptimizer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="ValueService" type="1a9f42e2:ClassTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546218895908" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/input" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/conf" />
+      <recent name="$PROJECT_DIR$/src/main/java/ca/lotlinx/service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ca.lotlinx.service.util" />
+      <recent name="ca.lotlinx.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ca.lotlinx.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/ca/lotlinx/service" />
+      <recent name="$PROJECT_DIR$/src/main/java/ca/lotlinx/service/rest" />
+      <recent name="$PROJECT_DIR$/src/main/java/ca/lotlinx/dto" />
+      <recent name="$PROJECT_DIR$/src/main/java/ca/lotlinx/rest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.PhotoOptimizer">
+    <configuration name="PhotoOptimizer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.lotlinx.PhotoOptimizer" />
+      <module name="photoOptimizer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.lotlinx.service.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in photoOptimizer (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="photoOptimizer" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleRestClientTest.load_optimize_get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="photoOptimizer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.lotlinx.service.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ca.lotlinx.service" />
+      <option name="MAIN_CLASS_NAME" value="ca.lotlinx.service.SimpleRestClientTest" />
+      <option name="METHOD_NAME" value="load_optimize_get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleRestClientTest.submitImage_optimize_post" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="photoOptimizer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.lotlinx.service.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ca.lotlinx.service" />
+      <option name="MAIN_CLASS_NAME" value="ca.lotlinx.service.SimpleRestClientTest" />
+      <option name="METHOD_NAME" value="submitImage_optimize_post" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubmitImageServiceTest.submitImage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="photoOptimizer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.lotlinx.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ca.lotlinx.service" />
+      <option name="MAIN_CLASS_NAME" value="ca.lotlinx.service.SubmitImageServiceTest" />
+      <option name="METHOD_NAME" value="submitImage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PhotoOptimizer" />
+      <item itemvalue="JUnit.SimpleRestClientTest.submitImage_optimize_post" />
+      <item itemvalue="JUnit.SimpleRestClientTest.load_optimize_get" />
+      <item itemvalue="JUnit.All in photoOptimizer (1)" />
+      <item itemvalue="JUnit.SubmitImageServiceTest.submitImage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PhotoOptimizer" />
+        <item itemvalue="JUnit.SubmitImageServiceTest.submitImage" />
+        <item itemvalue="JUnit.All in photoOptimizer (1)" />
+        <item itemvalue="JUnit.SimpleRestClientTest.submitImage_optimize_post" />
+        <item itemvalue="JUnit.SimpleRestClientTest.load_optimize_get" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54785590-6303-4b84-b44e-5c2f52f49306" name="Default Changelist" comment="" />
+      <created>1543525613949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543525613949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SimpleRestClientTest_load_optimize_get - 2018.12.02 at 14h 23m 54s.xml">
+      <configuration name="SimpleRestClientTest.load_optimize_get" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleRestClientTest_submitImage_optimize_post - 2018.12.02 at 15h 53m 43s.xml">
+      <configuration name="SimpleRestClientTest.submitImage_optimize_post" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleRestClientTest_submitImage_optimize_post - 2018.12.02 at 15h 54m 16s.xml">
+      <configuration name="SimpleRestClientTest.submitImage_optimize_post" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleRestClientTest_submitImage_optimize_post - 2018.12.02 at 15h 54m 34s.xml">
+      <configuration name="SimpleRestClientTest.submitImage_optimize_post" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleRestClientTest_submitImage_optimize_post - 2018.12.02 at 15h 55m 47s.xml">
+      <configuration name="SimpleRestClientTest.submitImage_optimize_post" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleRestClientTest_submitImage_optimize_post - 2018.12.02 at 15h 58m 38s.xml">
+      <configuration name="SimpleRestClientTest.submitImage_optimize_post" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_photoOptimizer_(1) - 2018.12.02 at 20h 14m 23s.xml">
+      <configuration name="All in photoOptimizer (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubmitImageServiceTest_submitImage - 2018.12.03 at 17h 10m 40s.xml">
+      <configuration name="SubmitImageServiceTest.submitImage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubmitImageServiceTest_submitImage - 2018.12.03 at 17h 19m 05s.xml">
+      <configuration name="SubmitImageServiceTest.submitImage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubmitImageServiceTest_submitImage - 2018.12.03 at 17h 56m 33s.xml">
+      <configuration name="SubmitImageServiceTest.submitImage" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="35" y="25" width="1331" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50340134" side_tool="true" visible="true" weight="0.3299611" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" sideWeight="0.49659863" weight="0.3299611" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Project Explorer" order="6" sideWeight="0.4955357" weight="0.3299611" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Job Explorer" order="9" weight="0.3299611" />
+      <window_info id="Learn" order="10" />
+      <window_info anchor="bottom" id="Problems" order="0" weight="0.32993197" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.29421768" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49883267" weight="0.36394557" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32993197" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.30442178" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011673" side_tool="true" weight="0.48979592" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4996109" weight="0.3197279" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.24902724" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24980545" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50446427" side_tool="true" visible="true" weight="0.30272374" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Project Explorer" order="6" sideWeight="0.4955357" weight="0.3299611" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Job Explorer" order="9" weight="0.3299611" />
+      <window_info id="Learn" order="10" />
+      <window_info anchor="bottom" id="Problems" order="0" weight="0.32993197" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.29421768" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49883267" weight="0.36394557" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32993197" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.30442178" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011673" side_tool="true" visible="true" weight="0.48979592" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4996109" weight="0.3197279" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.24902724" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24980545" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/ProcessPhotoApi.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/ProcessPhotoApi.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/SimpleRestClient.java</url>
+          <line>160</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/ca/lotlinx/service/SimpleRestClientTest.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ca/lotlinx/PhotoOptimizer.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>restService.verifyStatus(token)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>responseValues.getValues().getStatus()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>oi.getAsJsonObject().get(&quot;modifiedUrl&quot;).toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>StatusType.COMPLETE.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>v.getAsJsonObject().get(&quot;status&quot;).getAsString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tatusType.COMPLETE.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>v.getAsJsonObject().get(&quot;status&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>v.getAsJsonObject().get(&quot;status&quot;).toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/PhotoRestServiceTest.java" />
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/optimize.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/input.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/Dealer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/Values.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/VehicleImage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/OptimizeVehicleImageSet.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/OptimizeImageSet.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/ImageValues.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="1315" column="21" lean-forward="true" selection-start-line="1315" selection-start-column="21" selection-end-line="1315" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dbnavigator.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6399" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="174" selection-start-line="174" selection-end-line="174" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/Image.java" />
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_181/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="93" column="41" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/StatusError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/StatusType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/ValuesStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/util/Param.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="26" selection-start-line="18" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/util/Headers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/util/Header.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="78" selection-start-line="17" selection-start-column="78" selection-end-line="17" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/util/RestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="75" selection-start-line="4" selection-start-column="75" selection-end-line="4" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ca/lotlinx/service/SubmitImageServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ca/lotlinx/service/SimpleRestClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/SimpleRestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="47" column="23" selection-start-line="47" selection-start-column="11" selection-end-line="47" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/ErrorMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/GenericReturn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/dto/Status.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/ValueService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/ServiceType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/RestService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/PhotoOptimizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/SubmitImageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="42" column="66" lean-forward="true" selection-start-line="42" selection-start-column="66" selection-end-line="42" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ca/lotlinx/service/ServiceRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>photoOptimizer:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8.0_181 (Oracle )</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>photoOptimizer</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8.0_181 (Oracle )</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.gson:gson:2.8.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

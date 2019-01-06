@@ -1,0 +1,32 @@
+[
+  {
+    "dealerId": "0",
+    "vehicleImageSets": [
+      {
+        "id": 0,
+        "imageSet": [
+          {
+            "imageId": 0,
+            "imageUrl": "https://img.lotlinx.com/vdn/7416/jeep_wrangler%20unlimited_2014_1C4BJWFG3EL326863_7416_339187295.jpg"
+          },
+          {
+            "imageId": 1,
+            "imageUrl": "https://img.lotlinx.com/vdn/7416/jeep_wrangler%20unlimited_2014_1C4BJWFG3EL326863_7416_2_339187295.jpg"
+          },
+          {
+            "imageId": 2,
+            "imageUrl": "https://img.lotlinx.com/vdn/7416/jeep_wrangler%20unlimited_2014_1C4BJWFG3EL326863_7416_3_339187295.jpg"
+          },
+          {
+            "imageId": 3,
+            "imageUrl": "https://img.lotlinx.com/vdn/7416/jeep_wrangler%20unlimited_2014_1C4BJWFG3EL326863_7416_4_339187295.jpg"
+          },
+          {
+            "imageId": 4,
+            "imageUrl": "https://img.lotlinx.com/vdn/7416/jeep_wrangler%20unlimited_2014_1C4BJWFG3EL326863_7416_5_339187295.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]
